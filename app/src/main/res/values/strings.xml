@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">WebForge Remote Assist</string>
-    <string name="accessibility_description">Optional user-enabled assistance for navigating supported interfaces. Actions remain under the user's control.</string>
+    <string name="accessibility_description">Optional assistance for supported interface navigation. The user remains in control.</string>
 </resources>
